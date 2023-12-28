@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parjann
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in Web development and Mobile Development
+- 🌱 I’m currently learning MERN Stack, React-Native
 
 
 <!---
