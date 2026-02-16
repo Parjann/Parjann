@@ -1,5 +1,5 @@
 # 💫 Parjan Hussain
-Full Stack Developer | React & Next.js | Node.js & NestJS | Spring Boot<br><br>Passionate Full Stack Developer with experience building scalable web applications, microservices architectures, and modern UI systems. I focus on writing clean, maintainable code and building production-ready applications.
+Full Stack Developer | React • Next.js • Node.js • NestJS • Spring Boot<br><br>Passionate Full Stack Developer with experience building scalable web applications, microservices architectures, and modern UI systems. I focus on writing clean, maintainable code and building production-ready applications.
 
 
 ## 🌐 Socials:
